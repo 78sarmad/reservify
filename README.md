@@ -16,6 +16,7 @@ administration to manage and keep track of reservations made and the food recipe
 
 **Storage Engine:** ​ **MySQL database** ​ is used to implement the schema for various
 relations of the software system.
+
 **Database Administration:** ​ **Phpmyadmin** ​tool is utilized for administering and
 visualizing stored data in our database.
 &nbsp;
