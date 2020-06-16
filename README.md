@@ -4,6 +4,11 @@
 to facilitate the job of customers in booking tables prior to arrival and system
 administration to manage and keep track of reservations made and the food recipes.
 &nbsp;
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sxrmxd/reservify/master/demos/reservify-app-demo.gif?token=AP7JUZVEJMDXDT4MLE7MLMC65ESKQ">
+</p>
+&nbsp;
+&nbsp;
 ## Components & Development Platforms
 
 #### Storage Database
@@ -37,6 +42,7 @@ various administration operations.
 language for the Web Dashboard. It uses MySQL Helper class to provide different
 administration functions to the web admins.
 &nbsp;
+&nbsp;
 ## Project Deliverables
 
 **Reservify** ​ - Restaurant Reservation Management System delivers a full package for
@@ -52,7 +58,7 @@ provides brief functionality to change admin profile settings.
 - **Request Service APIs** ​ to serve the responses to various requests by app
 customers.
 &nbsp;
-
+&nbsp;
 ## Project Demo
 
 **App Demo:** ​ **[Reservify on YouTube](https://www.youtube.com/watch?v=WTpMVfnOxk0&feature=emb_logo "YouTube Video")
