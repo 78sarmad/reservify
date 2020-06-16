@@ -63,6 +63,7 @@ customers.
 ## Project Demo
 
 **App Demo:** ​ **[Reservify on YouTube](https://www.youtube.com/watch?v=WTpMVfnOxk0&feature=emb_logo "YouTube Video")** 
- 
-**Web Dashboard:** ​ **[http://dbms.ddns.net/](http://dbms.ddns.net/)** ​ (​ **username:** ​ sarmad, ​ **password:** ​ admin)
+
+**Web Dashboard:** ​ **[http://dbms.ddns.net/](http://dbms.ddns.net/)** ​ 
+(​**username:** ​ sarmad, ​ **password:** ​ admin)
 &nbsp;
