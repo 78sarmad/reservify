@@ -4,11 +4,12 @@
 to facilitate the job of customers in booking tables prior to arrival and system
 administration to manage and keep track of reservations made and the food recipes.
 &nbsp;
-<p align="center" width="500" height="888">
+<p align="center" width="400" height="711">
   <img src="https://greased-clangs.000webhostapp.com/demos/reservify-app-demo.gif">
 </p>
 &nbsp;
 &nbsp;
+
 ## Components & Development Platforms
 
 #### Storage Database
