@@ -4,7 +4,7 @@
 to facilitate the job of customers in booking tables prior to arrival and system
 administration to manage and keep track of reservations made and the food recipes.
 &nbsp;
-<p align="center">
+<p align="center" width="500" height="888">
   <img src="https://raw.githubusercontent.com/sxrmxd/reservify/master/demos/reservify-app-demo.gif?token=AP7JUZVEJMDXDT4MLE7MLMC65ESKQ">
 </p>
 &nbsp;
