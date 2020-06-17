@@ -20,11 +20,13 @@ relations of the software system.
 **Database Administration:** ​ **Phpmyadmin** ​tool is utilized for administering and
 visualizing stored data in our database.
 &nbsp;
+
 ### Web APIs (Request Handling)
 
 **Intermediary APIs:** ​ **PHP 7.4 APIs** ​ act as an intermediate service in communicating
 apps with the database. App puts a ​ **request to the corresponding API** ​ with certain parameters and the Web API in return sends the ​ encoded JSON response ​ to the app.
 &nbsp;
+
 ### Mobile App Frameworks
 
 **Frontend (UI):** ​ **Flutter** ​has been implemented as the main app development
@@ -35,6 +37,7 @@ framework comprising various screens, widgets and other visual elements.
 such as app providers, class models and processing / retrieval of ​ **requests to APIs**
 and ​ **decode JSON** ​ responses.
 &nbsp;
+
 ### Web Dashboard
 
 **Frontend (UI):** ​ **Bootstrap** ​has been used to provide the user interface to the
@@ -45,6 +48,7 @@ language for the Web Dashboard. It uses MySQL Helper class to provide different
 administration functions to the web admins.
 &nbsp;
 &nbsp;
+
 ## Project Deliverables
 
 **Reservify** ​ - Restaurant Reservation Management System delivers a full package for
@@ -61,6 +65,7 @@ provides brief functionality to change admin profile settings.
 customers.
 &nbsp;
 &nbsp;
+
 ## Project Demo
 
 **App Demo:** ​ **[Reservify on YouTube](https://www.youtube.com/watch?v=WTpMVfnOxk0&feature=emb_logo "YouTube Video")** 
