@@ -67,4 +67,6 @@ customers.
 
 **Web Dashboard:** ​ **[http://dbms.ddns.net/](http://dbms.ddns.net/)** ​ 
 (​**username:** ​ sarmad, ​ **password:** ​ admin)
+
+**Try It Yourself:** ​ **[Install App](https://drive.google.com/drive/folders/1Z4DQ4kfUv2YQE_EoqpfATJlBwpTBjTtK?usp=sharing)** ​ 
 &nbsp;
