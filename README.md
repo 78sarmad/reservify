@@ -55,14 +55,14 @@ administration functions to the web admins.
 registering and managing reservations for a restaurant. It features the following
 deliverables:
 
-**App**
+### App
 - User Login and Registration
 - Browse Recipes and View Item Details
 - Customize Sitting Type (by table seats) and Reservation Timings
 - Place Reservation Order, View all Orders and Provide Feedback (rating)
 - View User Profile and Change App Themes
 
-**Web Dashboard**
+### Web Dashboard
 - Admin Login and Profile Settings
 - View Overall Database Statistics (No. of Recipes, Customers and Reservations)
 - View and Manage (Modify / Delete Recipe Items)
