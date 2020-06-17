@@ -69,8 +69,7 @@ deliverables:
 - View Details on Customer Profiles
 - View Details on All Reservations (made by customers)
 
-**Request Service APIs** to serve the responses to various requests by app
-customers.
+**Request Service APIs** to serve the responses to various requests sent by the app.
 &nbsp;
 &nbsp;
 
