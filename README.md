@@ -54,14 +54,22 @@ administration functions to the web admins.
 **Reservify** ​ - Restaurant Reservation Management System delivers a full package for
 registering and managing reservations for a restaurant. It features the following
 deliverables:
-- An app named ​ **Reservify App** ​ to register users and provide them with
-functionality to ​ **browse recipes** ​, ​ **place reservation orders** ​, ​ **view those
-reservations** ​ and ​ **provide feedback** ​. It also incorporates a profile view to
-display details on the ​ **user profile** ​.
-- A ​ **Web Dashboard** ​ for managers to manage customers, list and add recipes,
-and view details on reservations made by the customers. Web dashboard also
-provides brief functionality to change admin profile settings.
-- **Request Service APIs** ​ to serve the responses to various requests by app
+
+**App**
+- User Login and Registration
+- Browse Recipes and View Item Details
+- Customize Sitting Type (by table seats) and Reservation Timings
+- Place Reservation Order, View all Orders and Provide Feedback (rating)
+- View User Profile and Change App Themes
+
+**Web Dashboard**
+- Admin Login and Profile Settings
+- View Overall Database Statistics (No. of Recipes, Customers and Reservations)
+- View and Manage (Modify / Delete Recipe Items)
+- View Details on Customer Profiles
+- View Details on All Reservations (made by customers)
+
+**Request Service APIs** to serve the responses to various requests by app
 customers.
 &nbsp;
 &nbsp;
