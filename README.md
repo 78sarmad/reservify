@@ -63,8 +63,8 @@
 
 **App Demo:** ​ **[Reservify on YouTube](https://www.youtube.com/watch?v=VWpfGFsviow "YouTube Video")** 
 
-**Web Dashboard:** ​ **[http://dbms.ddns.net/](http://dbms.ddns.net/)** ​ 
-(​**username:** ​ sarmad, ​ **password:** ​ admin)
+**Web Dashboard:** ​ **[Navigate to Dashboard](http://greased-clangs.000webhostapp.com/)** ​ 
+(​**username:** ​ admin, ​ **password:** ​ admin)
 
 **Try It Yourself:** ​ **[Install App](https://drive.google.com/drive/folders/1Z4DQ4kfUv2YQE_EoqpfATJlBwpTBjTtK?usp=sharing)** ​ 
 &nbsp;
