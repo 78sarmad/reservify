@@ -3,7 +3,7 @@
 **Reservify** ​ aims to deliver a GUI-based Table Reservation mechanism for restaurants to facilitate the job of customers in booking tables prior to arrival and system administration to manage and keep track of reservations made and the food recipes.
 &nbsp;
 <p align="center" width="400" height="711">
-  <img src="https://greased-clangs.000webhostapp.com/demos/reservify-app-demo.gif">
+  <img src="https://raw.githubusercontent.com/78sarmad/reservify/master/demos/reservify-app-demo.gif">
 </p>
 &nbsp;
 &nbsp;
@@ -63,8 +63,5 @@
 
 **App Demo:** ​ **[Reservify on YouTube](https://www.youtube.com/watch?v=VWpfGFsviow "YouTube Video")** 
 
-**Web Dashboard:** ​ **[Navigate to Dashboard](http://greased-clangs.000webhostapp.com/)** ​ 
-(​**username:** ​ admin, ​ **password:** ​ admin)
-
-**Try It Yourself:** ​ **[Install App](https://drive.google.com/drive/folders/1Z4DQ4kfUv2YQE_EoqpfATJlBwpTBjTtK?usp=sharing)** ​ 
+**Want To Give It A Go?** ​ **[Install App](https://drive.google.com/drive/folders/1Z4DQ4kfUv2YQE_EoqpfATJlBwpTBjTtK?usp=sharing)** ​ 
 &nbsp;
